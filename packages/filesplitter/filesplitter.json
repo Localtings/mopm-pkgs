@@ -1,6 +1,6 @@
 {
     "name": "C File Splitter",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "description": "Split one file into multiple smaller files.",
     "author": "Localt",
     "license": "MIT"
