@@ -1,0 +1,6 @@
+name = "filesplitter"
+description = "Split one file into multiple smaller files."
+author = "Localt"
+version = "1.0.0"
+license = "MIT"
+binary_url = "https://raw.githubusercontent.com/Localtings/C-File-Splitter/main/bin/filesplitter.exe"
