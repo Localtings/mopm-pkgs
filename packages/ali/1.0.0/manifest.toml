@@ -1,5 +1,5 @@
 description = "A simple C++ memory editor that uses Lua as it's scripting language."
 author = "Localt"
 license = "MIT"
-binary_url = "https://github.com/Localtings/ALI/releases/download/1.0.0/ALI.exe"
+binary_url = "https://raw.githubusercontent.com/Localtings/ALI/main/bin/ALI.exe"
 checksum = "095e17aee6edbbf5a86d972b5b63581b57c0cc12ee80ece6711088600ca5dbe3"
