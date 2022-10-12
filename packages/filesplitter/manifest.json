@@ -1,0 +1,13 @@
+{
+	"stable": "1.0.0",
+	"releases_url": "https://api.github.com/repos/Localtings/C-File-Splitter/releases",
+	"versions": [
+		{
+			"version": "1.0.0",
+			"description": "Split one file into multiple smaller files.",
+			"author": "Localt",
+			"license": "MIT",
+			"checksum": "cd09432e17a3196e76b1f7793848f67f30fbd035c5d26e910754f95c16b0808b"
+		}
+	]
+}
