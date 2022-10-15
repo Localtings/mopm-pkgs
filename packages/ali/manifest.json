@@ -8,6 +8,13 @@
 			"author": "Localt",
 			"license": "MIT",
 			"checksum": "095e17aee6edbbf5a86d972b5b63581b57c0cc12ee80ece6711088600ca5dbe3"
+		},
+		{
+			"version": "0.9.0",
+			"description": "A simple C++ memory editor that uses Lua as it's scripting language",
+			"author": "Localt",
+			"license": "MIT",
+			"checksum": "095e17aee6edbbf5a86d972b5b63581b57c0cc12ee80ece6711088600ca5dbe3"
 		}
 	]
 }
