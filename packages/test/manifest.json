@@ -1,0 +1,13 @@
+{
+	"stable": "1.0.0",
+	"releases_url": "https://api.github.com/repos/Localtings/mopm-test/releases",
+	"versions": [
+		{
+			"version": "1.0.0",
+			"description": "A test package.",
+			"author": "Localt",
+			"license": "No license",
+			"checksum": "2798503c2c7b718799324122137bf30a562aad1bc04bbf343daad225a5fd0d1fd5d269843a01ab00d4f8d8c5ab34f8956065f9831ef7459e9c487e895099e956"
+		}
+	]
+}
