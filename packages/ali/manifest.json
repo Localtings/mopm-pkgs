@@ -1,8 +1,8 @@
 {
 	"stable": "1.0.0",
-	"releases_url": "https://api.github.com/repos/Localtings/ALI/releases",
 	"versions": [
 		{
+      "file": "https://github.com/Localtings/ALI/releases/download/mopm/ALI.zip",
 			"version": "1.0.0",
 			"description": "A simple C++ memory editor that uses Lua as it's scripting language",
 			"author": "Localt",
@@ -10,6 +10,7 @@
 			"checksum": "095e17aee6edbbf5a86d972b5b63581b57c0cc12ee80ece6711088600ca5dbe3"
 		},
 		{
+      "file": "https://github.com/Localtings/ALI/releases/download/mopm/ALI.zip",
 			"version": "0.9.0",
 			"description": "A simple C++ memory editor that uses Lua as it's scripting language",
 			"author": "Localt",

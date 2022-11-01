@@ -1,8 +1,8 @@
 {
 	"stable": "1.0.0",
-	"releases_url": "https://api.github.com/repos/Localtings/C-File-Splitter/releases",
 	"versions": [
 		{
+      "file": "https://github.com/Localtings/C-File-Splitter/releases/download/mopm/filesplitter.zip",
 			"version": "1.0.0",
 			"description": "Split one file into multiple smaller files.",
 			"author": "Localt",
