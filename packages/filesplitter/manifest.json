@@ -3,6 +3,7 @@
 	"versions": [
 		{
       "file": "https://github.com/Localtings/C-File-Splitter/releases/download/mopm/filesplitter.zip",
+      "entry": "filesplitter.exe",
 			"version": "1.0.0",
 			"description": "Split one file into multiple smaller files.",
 			"author": "Localt",
