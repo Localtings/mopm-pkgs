@@ -1,0 +1,23 @@
+{
+  "stable": "v1.0.0.4",
+  "versions": [
+    {
+      "file": "https://github.com/RobloxStudio-DiscordRPC/RPC-Client/releases/download/v1.0.0.4/RobloxStudio-DiscordRPC-Win64.zip",
+      "entry": "RobloxStudio-DiscordRPC.exe",
+      "version": "v1.0.0.4",
+      "description": "https://github.com/RobloxStudio-DiscordRPC/.github/blob/master/profile/README.md",
+      "author": "MatusGuy",
+      "license": "MIT",
+      "checksum": "db44a79ec38fd88a71144b43f03fe9931013241c78b943a49892afddaa2e99be"
+    },
+    {
+      "file": "https://github.com/RobloxStudio-DiscordRPC/RPC-Client/releases/download/v1.0.0.3/RobloxStudio-DiscordRPC-Win64.zip",
+      "entry": "RobloxStudio-DiscordRPC.exe",
+      "version": "v1.0.0.3",
+      "description": "https://github.com/RobloxStudio-DiscordRPC/.github/blob/master/profile/README.md",
+      "author": "MatusGuy",
+      "license": "MIT",
+      "checksum": "c9ce2cad9960b8c51142831dff3695bb2c175a35ddc318aad981c747571019f5"
+    }
+  ]
+}
